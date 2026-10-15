@@ -1,4 +1,4 @@
-# Flask Employee Portal
+# Orbit
 
 A comprehensive role-based employee management system built with Flask, featuring ticket management, asset tracking, onboarding/offboarding workflows, and automated email notifications.
 
